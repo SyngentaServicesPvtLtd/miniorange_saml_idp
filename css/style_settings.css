@@ -1,10 +1,4 @@
-.mo_saml_local_pricing_text{
-  font-size: 14px !important;
-  color: #fff !important;
-  font-weight: 100 !important;
-  text-align: center;
 
-}
 .mo_saml_table_layout {
 	border-radius: 1px;
 	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
@@ -347,13 +341,13 @@ input:checked + .slider .off
   overflow: hidden;
 }
 .class_inline_1{
-  width: 29%;
+  width: 35%;
   display: inline-block;
   padding-top: 198px;
 }
 
 .class_inline{
-  width: 23%;
+  width: 31%;
   display: inline-block;
   vertical-align: top;
 }

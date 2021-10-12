@@ -12,14 +12,10 @@ Drupal SAML 2.0 IDP provides the ability to turn your Drupal site to an Identity
 
 REQUIREMENTS
 ------------
-Libraries module is required for this Module to work.
 
 INSTALLATION
 ------------
 
-Download Libraries project from https://www.drupal.org/project/libraries. Install and enable this module.
-
-Download xmlseclibs from https://github.com/simplesamlphp/xmlseclibs. Extract the archive and place it under sites/all/libraries.
 
 Install as you would normally install a contributed Drupal module. See:
 https://drupal.org/documentation/install/modules-themes/modules-7
